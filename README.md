@@ -1,15 +1,15 @@
 # My First Project
 
-Welcom to my awsome project! This is a simple test repository.
+Welcome to my awesome project! This is a simple test repository.
 
 ## Features
 - Simple and easy to use
 - Great for learning Git and GitHub
-- Perfect for your firts PR
+- Perfect for your first PR
 
 ## Getting Started
 1. Clone this repository
 2. Read the README
-3. Make your first contributon
+3. Make your first contribution
 
 Thanks for visiting!
